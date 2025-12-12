@@ -1,4 +1,4 @@
-package com.example.beans;
+package example1.beans;
 
 public class Vehicle {
 
