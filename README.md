@@ -1,7 +1,7 @@
 🌱 Spring Framework Learning Repository
 
 This repository contains hands-on practice examples created while learning the Spring Framework.
-Each example focuses on understanding core Spring concepts through small, focused projects.
+Each module focuses on understanding core Spring concepts through small, focused, and practical examples.
 
 🔹 Status: Actively learning and practicing Spring step by step
 
@@ -27,6 +27,7 @@ Each example focuses on understanding core Spring concepts through small, focuse
 - Java-based configuration using @Configuration
 - Working with multiple bean definitions
 - Understanding NoUniqueBeanDefinitionException
+- Exploring different Spring bean naming strategies
 
 📁 Repository Structure
 
@@ -35,6 +36,9 @@ Each example focuses on understanding core Spring concepts through small, focuse
 
  example2:
 - Demonstrating NoUniqueBeanDefinitionException with multiple beans
+
+ example3:
+- Exploring different ways to name Spring beans
 
 🧪 Tools & Technologies Used
 - Java
@@ -48,6 +52,7 @@ The goal of this repository is to:
 - Build a strong foundation in Spring Core
 - Understand how Spring manages beans and dependencies
 - Learn Spring concepts through practical examples
+- Develop confidence by experimenting with real examples
 
 🔄 Upcoming Topics
 - Spring Boot fundamentals
