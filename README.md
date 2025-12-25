@@ -17,12 +17,16 @@ configuration through small, practical examples.
 - NoUniqueBeanDefinitionException
 - Spring bean naming strategies
 - Default bean selection using @Primary
+- Bean creation using Component Annotation
+- Spring bean lifecycle using annotations
 
 ## 📁 Repository Structure
 - **example1** – Adding new beans to the Spring context  
 - **example2** – Understanding NoUniqueBeanDefinitionException  
 - **example3** – Exploring Spring bean naming strategies  
-- **example4** – Understanding default bean preference with @Primary  
+- **example4** – Understanding default bean preference with @Primary
+- **example5** - Bean creation using Component Annotation
+- **example6** - Spring bean lifecycle using annotations
 
 ## 🧪 Tools & Technologies
 - Java
